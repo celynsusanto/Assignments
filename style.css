@@ -1,0 +1,127 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #bc8f8f;
+}
+nav li {
+    display: inline;
+    text-align: left;
+    float: right;
+    margin-right: 20px;
+    margin-top: 0 auto;
+    margin-bottom: 0 auto;
+    padding-right: 1rem;
+    color: white;
+    font-family: 'Handlee', cursive;
+    font-weight: bold;
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+}
+header{
+    width: 100%;
+    top: 0;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    position: fixed;
+    background-color: #b76e79;
+    z-index: 2;
+}
+h1 {
+    position: relative;
+    text-align: center;
+    padding-top: 255px;
+    padding-bottom: 260px;
+    font-size: 50px;
+    background-color: #b76e79; 
+    letter-spacing: 4px;
+   
+}
+h2{
+    position: relative;
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+h1, h2{
+    color: white;
+    font-family: 'Kalam', cursive;
+}
+p{
+    color: white;
+    font-family: 'Kalam', cursive;
+    display: inline-block;
+    padding-left: 20px;
+}
+footer{
+    margin: 0 auto;
+}
+    
+.logo img{
+    width: 50px;
+    height: 30px;
+    display: inline-block;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.logo h1{
+    position: relative;
+    top: 18px;
+    left: 10px;
+    display: inline-block;
+}
+.icon2 h2{
+    position: relative;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.icon2, .icon3, .icon4{
+    width: 120px;
+    height: 90px;
+}
+.icon1 h1{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.icon1{
+    width: 150px;
+    height: 120px;
+}
+
+.MyCreation {
+    background-color: #b76e79;
+    padding-top: 120px;
+    padding-bottom: 200px;
+}
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    display: inline-block;
+    float: right;
+  }
+.fa:hover {
+    opacity: 1;
+}
+.fa-facebook {
+    background: transparent;
+    color: #3B5998;
+  }
+.fa-instagram {
+    background: transparent;
+    color: #125688;
+    }
+.fa-snapchat-ghost {
+    background: transparent;
+    color: #fffc00;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+      }
