@@ -1,7 +1,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    background: linear-gradient(rgba(183,110,121,.5), rgba(180,110,121,.5)),
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 210, 208, 0.5)),
     url('stars.jpg');
 ;
 }
@@ -13,13 +13,13 @@ nav li {
     margin-top: 0 auto;
     margin-bottom: 0 auto;
     padding-right: 1rem;
-    color: hsl(172, 100%, 93%);
+    color:hsl(169, 100%, 100%);
     font-family: 'Handlee', cursive;
     font-weight: bold;
 }
 nav li a{
     text-decoration: none;
-    color: hsl(172, 100%, 93%);
+    color: hsl(169, 100%, 100%);
 }
 header{
     width: 100%;
@@ -27,7 +27,7 @@ header{
     top: 0;
     margin: 0 auto;
     position: fixed;
-    background-color: #b76e79;
+    background-color: hsl(178, 45%, 68%);
     z-index: 2;
 }
 h1 {
@@ -36,7 +36,7 @@ h1 {
     padding-top: 255px;
     padding-bottom: 260px;
     font-size: 50px;
-    background-color: #b76e79; 
+    background-color: hsl(178, 45%, 68%); 
     letter-spacing: 4px;
 }
 h2{
@@ -47,17 +47,17 @@ h2{
 }
 h1, h2{
     font-family: 'Kalam', cursive;
-    color: hsl(172, 100%, 93%);
+    color: hsl(169, 100%, 100%);
 }
 p{
-    color: hsl(172, 100%, 93%);
+    color: hsl(169, 100%, 100%);
     font-family: 'Kalam', cursive;
     display: inline-block;
     padding-left: 20px;
 }
 footer{
     margin: 0 auto;
-    background-color: #bc8f8f;
+    background-color: hsl(178, 45%, 76%);
 }
 
 .logo img{
@@ -97,7 +97,7 @@ footer{
 }
 
 .MyCreation {
-    background-color: #b76e79;
+    background-color: hsl(178, 45%, 68%);
     padding-top: 120px;
     padding-bottom: 200px;
 }
