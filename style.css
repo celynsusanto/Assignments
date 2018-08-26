@@ -1,8 +1,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(137, 210, 208, 0.6)),
-    url('stars1.jpg');
+    background-color: hsl(178, 45%, 68%);
 }
 nav li {
     display: inline;
@@ -41,10 +40,12 @@ h2{
     text-align: center;
     padding-top: 250px;
     padding-bottom: 250px;
+    
 }
 h1, h2{
     font-family: 'Kalam', cursive;
     color: hsl(169, 100%, 100%);
+   
 }
 p{
     color: hsl(169, 100%, 100%);
