@@ -1,8 +1,8 @@
 html, body{
     margin: 0;
     padding: 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(137, 210, 208, 0.5)),
-    url('stars.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(137, 210, 208, 0.6)),
+    url('stars1.jpg');
 }
 nav li {
     display: inline;
